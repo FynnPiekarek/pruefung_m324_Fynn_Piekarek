@@ -8,6 +8,8 @@ function checkNumber(num) {
   }
 }
 
+console.log('Changed in feature branch');
+
 checkNumber(10);
 
 function calculate(a, b, operation) {
