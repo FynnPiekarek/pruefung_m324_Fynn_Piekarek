@@ -15,8 +15,6 @@ function calculate(a, b, operation) {
       return a + b;
     } else if (operation === 'subtract') {
       return a - b;
-    } else if (operation === 'division') {
-      throw new Error('Division is not supported');
     } else {
       throw new Error('Invalid operation');
     }
