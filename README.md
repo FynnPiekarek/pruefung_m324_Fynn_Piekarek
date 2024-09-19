@@ -1,1 +1,1 @@
-# pruefung_m324_Fynn_Piekarek
+# Prüfung M324
