@@ -8,7 +8,7 @@ function checkNumber(num) {
   }
 }
 
-console.log('Changed in feature branch');
+console.log('Changed in main branch');
 
 checkNumber(10);
 
